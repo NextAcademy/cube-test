@@ -162,27 +162,3 @@ button:hover::before {
 .result svg {
   margin-left: 5px;
 }
-
-#challengeDescription {
-  max-width: 50%;
-  margin: auto;
-  text-align: left;
-}
-
-#answer {
-  max-width: 50%;
-  margin: auto;
-  text-align: left;
-}
-
-.text-center {
-  text-align: center;
-}
-
-.margin-auto {
-  margin: auto;
-}
-
-.pb-5 {
-  padding-bottom: 5rem;
-}
